@@ -24,12 +24,10 @@ This project was developed with the following technologies:
 
 -  [Swift](https://developer.apple.com/documentation/swift) [![Swift](https://img.shields.io/badge/-Swift-red?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/documentation/swift)](https://developer.apple.com/documentation/swift)
 
--  [SwiftUI](https://developer.apple.com/documentation/swiftui)
+-  [SwiftUI](https://developer.apple.com/documentation/swiftui) [![SwiftUI](https://img.shields.io/badge/-SwiftUI-red?style=flat-square&logo=SwiftUI&logoColor=white&link=https://developer.apple.com/documentation/swiftui)](https://developer.apple.com/documentation/swiftui)
 <!-- -  [json-server](https://github.com/typicode/json-server) -->
 
-[![Swift](https://img.shields.io/badge/-Swift-red?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/documentation/swift)](https://developer.apple.com/documentation/swift)
 
-![Swift](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=swift)
 
 ### About
 
