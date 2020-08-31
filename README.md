@@ -26,6 +26,10 @@ This project was developed with the following technologies:
 -  [SwiftUI](https://developer.apple.com/documentation/swiftui)
 <!-- -  [json-server](https://github.com/typicode/json-server) -->
 
+[![Swift](https://img.shields.io/badge/-Swift-red?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/documentation/swift)](https://developer.apple.com/documentation/swift)
+
+![Swift](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=swift)
+
 ### About
 
 A small iOS application that fetchs stocks and news data, made with SwiftUI.
