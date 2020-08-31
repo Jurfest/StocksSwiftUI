@@ -28,16 +28,16 @@ This project was developed with the following technologies:
 
 ### About
 
-A small iOS application that fetchs data from stocks and news, made with SwiftUI.
+A small iOS application that fetchs stocks and news data, made with SwiftUI.
 
 ### Preview
 
 <h1 align="center">
-    <img alt="Preview One" src="./StocksAppsSwiftUI/Assets.xcassets/previewOne.imageset/previewOne.png" width="350px"/>
+    <img alt="Preview One" src="./StockAppsSwiftUI/Assets.xcassets/previewOne.imageset/previewOne.png" width="350px"/>
 </h1>
 
 <h1 align="center">
-    <img alt="Preview two" src="./StocksAppsSwiftUI/Assets.xcassets/previewTwo.imageset/previewTwo.png" width="350px"/>
+    <img alt="Preview two" src="./StockAppsSwiftUI/Assets.xcassets/previewTwo.imageset/previewTwo.png" width="350px"/>
 </h1>
 
 ### Acknowledgment
